@@ -14,7 +14,7 @@ function NestedExample() {
           <Link to='/nested-example/profile'>Profile</Link>
         </Nav.Item>
         <Nav.Item>
-          <Link to='/nested-example/settings'>Settings</Link>
+          <Link to='/nested-example/setting'>Settings</Link>
         </Nav.Item>
         <Nav.Item>
           <Link to='/nested-example/feed'>Feed</Link>
